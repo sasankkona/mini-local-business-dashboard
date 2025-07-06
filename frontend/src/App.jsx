@@ -27,7 +27,7 @@ const seoTips = [
   "Encourage customers to leave reviews to boost your rating."
 ];
 
-const backendBaseUrl = 'http://localhost:5001';
+const backendBaseUrl = 'https://mini-local-business-dashboard-dxlk.onrender.com';
 
 function App() {
   const [businessName, setBusinessName] = useState('');
